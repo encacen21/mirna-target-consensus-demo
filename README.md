@@ -130,3 +130,13 @@ Focus areas: RNA/miRNA analysis, sequence analysis, biological annotation, qPCR 
 ## License
 
 This project is released under the MIT License. See the LICENSE file for details.
+
+## Portfolio Relevance
+
+This repository was created as a public portfolio example for RNA/miRNA bioinformatics workflows. It demonstrates how heterogeneous prediction outputs can be standardized, integrated, summarized, and converted into consensus-based result tables using a reproducible Python workflow.
+
+The project is suitable for demonstrating skills in Python, pandas, bioinformatics data processing, multi-tool result integration, target prioritization logic, and scientific workflow documentation.
+
+A concise portfolio-oriented summary is available in:
+
+    docs/portfolio_summary.md
