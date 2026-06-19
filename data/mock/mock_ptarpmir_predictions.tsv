@@ -1,0 +1,6 @@
+mirna_id	target_id	confidence	seed_start	seed_end
+mock-miR-001	TARGET_001	0.91	2	8
+mock-miR-001	TARGET_003	0.74	3	9
+mock-miR-002	TARGET_004	0.88	2	8
+mock-miR-003	TARGET_005	0.93	2	8
+mock-miR-003	TARGET_007	0.69	4	10

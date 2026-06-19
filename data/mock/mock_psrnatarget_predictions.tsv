@@ -1,0 +1,6 @@
+mirna_id	target_id	expectation_score	inhibition_type
+mock-miR-001	TARGET_001	2.0	cleavage
+mock-miR-001	TARGET_008	3.0	translation
+mock-miR-002	TARGET_002	2.5	cleavage
+mock-miR-002	TARGET_004	2.0	translation
+mock-miR-003	TARGET_005	2.0	cleavage

@@ -1,0 +1,3 @@
+GENE_B
+GENE_D
+GENE_F

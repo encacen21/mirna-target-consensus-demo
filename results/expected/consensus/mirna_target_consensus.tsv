@@ -1,0 +1,10 @@
+mirna_id	target_id	gene_symbol	gene_description	mock_functional_category	tool_support_n	tools_supporting	consensus_level
+mock-miR-001	TARGET_001	GENE_A	Mock transcription-associated protein	Gene regulation	4	PTarPmiR;RNAhybrid;miRanda;psRNATarget	high
+mock-miR-003	TARGET_005	GENE_E	Mock stress-response protein	Stress response	4	PTarPmiR;RNAhybrid;miRanda;psRNATarget	high
+mock-miR-001	TARGET_003	GENE_C	Mock kinase-like signaling protein	Signaling	3	PTarPmiR;RNAhybrid;miRanda	high
+mock-miR-002	TARGET_002	GENE_B	Mock membrane transporter	Transport	3	RNAhybrid;miRanda;psRNATarget	high
+mock-miR-002	TARGET_004	GENE_D	Mock metabolic enzyme	Metabolism	3	PTarPmiR;miRanda;psRNATarget	high
+mock-miR-003	TARGET_007	GENE_G	Mock vesicle-associated protein	Trafficking	2	PTarPmiR;RNAhybrid	medium
+mock-miR-001	TARGET_002	GENE_B	Mock membrane transporter	Transport	1	miRanda	single_tool
+mock-miR-001	TARGET_008	GENE_H	Mock structural protein	Cell organization	1	psRNATarget	single_tool
+mock-miR-002	TARGET_006	GENE_F	Mock RNA-binding protein	RNA processing	1	RNAhybrid	single_tool

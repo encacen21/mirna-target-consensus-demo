@@ -1,0 +1,23 @@
+mirna_id	target_id	tool	evidence
+mock-miR-001	TARGET_001	miRanda	alignment_score=158; energy=-24.5; target_start=102; target_end=124
+mock-miR-001	TARGET_002	miRanda	alignment_score=142; energy=-20.1; target_start=88; target_end=110
+mock-miR-001	TARGET_003	miRanda	alignment_score=135; energy=-18.8; target_start=210; target_end=232
+mock-miR-002	TARGET_002	miRanda	alignment_score=149; energy=-22.3; target_start=55; target_end=78
+mock-miR-002	TARGET_004	miRanda	alignment_score=160; energy=-25.0; target_start=144; target_end=167
+mock-miR-003	TARGET_005	miRanda	alignment_score=151; energy=-21.9; target_start=300; target_end=323
+mock-miR-001	TARGET_001	RNAhybrid	mfe=-27.2; p_value=0.004; target_start=101; target_end=124
+mock-miR-001	TARGET_003	RNAhybrid	mfe=-19.5; p_value=0.031; target_start=211; target_end=233
+mock-miR-002	TARGET_002	RNAhybrid	mfe=-23.8; p_value=0.008; target_start=54; target_end=77
+mock-miR-002	TARGET_006	RNAhybrid	mfe=-18.2; p_value=0.045; target_start=189; target_end=212
+mock-miR-003	TARGET_005	RNAhybrid	mfe=-22.5; p_value=0.012; target_start=299; target_end=322
+mock-miR-003	TARGET_007	RNAhybrid	mfe=-17.9; p_value=0.049; target_start=76; target_end=99
+mock-miR-001	TARGET_001	psRNATarget	expectation_score=2.0; inhibition_type=cleavage
+mock-miR-001	TARGET_008	psRNATarget	expectation_score=3.0; inhibition_type=translation
+mock-miR-002	TARGET_002	psRNATarget	expectation_score=2.5; inhibition_type=cleavage
+mock-miR-002	TARGET_004	psRNATarget	expectation_score=2.0; inhibition_type=translation
+mock-miR-003	TARGET_005	psRNATarget	expectation_score=2.0; inhibition_type=cleavage
+mock-miR-001	TARGET_001	PTarPmiR	confidence=0.91; seed_start=2; seed_end=8
+mock-miR-001	TARGET_003	PTarPmiR	confidence=0.74; seed_start=3; seed_end=9
+mock-miR-002	TARGET_004	PTarPmiR	confidence=0.88; seed_start=2; seed_end=8
+mock-miR-003	TARGET_005	PTarPmiR	confidence=0.93; seed_start=2; seed_end=8
+mock-miR-003	TARGET_007	PTarPmiR	confidence=0.69; seed_start=4; seed_end=10

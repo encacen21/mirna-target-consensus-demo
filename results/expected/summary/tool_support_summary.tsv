@@ -1,0 +1,5 @@
+tool	prediction_count	unique_targets	unique_mirnas
+RNAhybrid	6	6	3
+miRanda	6	5	3
+PTarPmiR	5	5	3
+psRNATarget	5	5	3

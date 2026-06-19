@@ -1,0 +1,9 @@
+target_id	gene_symbol	gene_description	mock_functional_category
+TARGET_001	GENE_A	Mock transcription-associated protein	Gene regulation
+TARGET_002	GENE_B	Mock membrane transporter	Transport
+TARGET_003	GENE_C	Mock kinase-like signaling protein	Signaling
+TARGET_004	GENE_D	Mock metabolic enzyme	Metabolism
+TARGET_005	GENE_E	Mock stress-response protein	Stress response
+TARGET_006	GENE_F	Mock RNA-binding protein	RNA processing
+TARGET_007	GENE_G	Mock vesicle-associated protein	Trafficking
+TARGET_008	GENE_H	Mock structural protein	Cell organization
